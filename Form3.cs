@@ -102,7 +102,7 @@ namespace Kursach
             }
             n = 2;
             int k = 0;
-            resheto.Image = Image.FromFile("C:\\Users\\acer\\source\\repos\\Kursach\\img\\123.png");
+            resheto.Image = Image.FromFile("C:\\Users\\acer\\source\\repos\\Kursach\\img\\1234.png");
             Brush brush = new SolidBrush(Color.Black);
             Graphics g = Graphics.FromImage(resheto.Image);
             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
